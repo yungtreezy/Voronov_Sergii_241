@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\games\obj\Debug\netcoreapp3.1\games.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\games\obj\Debug\netcoreapp3.1\games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\games\obj\Debug\netcoreapp3.1\games.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\games\obj\Debug\netcoreapp3.1\games.AssemblyInfo.cs
+C:\Users\Admin\source\repos\games\obj\Debug\netcoreapp3.1\games.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\games\bin\Debug\netcoreapp3.1\games.exe
+C:\Users\Admin\source\repos\games\bin\Debug\netcoreapp3.1\games.deps.json
+C:\Users\Admin\source\repos\games\bin\Debug\netcoreapp3.1\games.runtimeconfig.json
+C:\Users\Admin\source\repos\games\bin\Debug\netcoreapp3.1\games.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\games\bin\Debug\netcoreapp3.1\games.dll
+C:\Users\Admin\source\repos\games\bin\Debug\netcoreapp3.1\games.pdb
+C:\Users\Admin\source\repos\games\obj\Debug\netcoreapp3.1\games.dll
+C:\Users\Admin\source\repos\games\obj\Debug\netcoreapp3.1\games.pdb
+C:\Users\Admin\source\repos\games\obj\Debug\netcoreapp3.1\games.genruntimeconfig.cache
